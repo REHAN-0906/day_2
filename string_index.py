@@ -1,2 +1,2 @@
 a="rehan"
-print("fetching a using backward index :",a[-2])
+print("we are finding the -2 indexing value in string :",a[-2])
